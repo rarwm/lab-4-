@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\bin\Debug\fefefefef.exe.config
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\bin\Debug\fefefefef.exe
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\bin\Debug\fefefefef.pdb
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\App.g.cs
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef_MarkupCompile.cache
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef_MarkupCompile.lref
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.g.resources
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.Properties.Resources.resources
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.csproj.GenerateResource.cache
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.exe
+C:\Users\user\Desktop\26.04 капитонова\fefefefef\obj\Debug\fefefefef.pdb
